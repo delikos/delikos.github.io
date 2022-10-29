@@ -1,9 +1,12 @@
-.nav1{
+body{
+    padding: 0;
+    margin: 0
+}
+.menu{
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
     padding: 0 3rem;
-    background: rgb(145, 145, 145);
-    
+    background: #1F2232;
 }
