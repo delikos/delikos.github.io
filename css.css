@@ -83,3 +83,23 @@ body{
     margin-left: 10px;
     padding-top: 3px;
 }
+
+.dropdown__menu-1{
+    display: none;
+}
+
+.dropdown__menu ul li:hover .dropdown__menu-1{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 150px;
+    background-color: var(--color-black);
+}
+
+.hero{
+    height: calc(100vh - 80px);
+    background-image:  url(./programowanie.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
