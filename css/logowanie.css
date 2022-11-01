@@ -132,7 +132,7 @@ body{
 .links a:hover,
 .links a:nth-child(2)
 {
-      
+    color:#45f3ff
 }
 input[type="submit"]{
     border: none;
