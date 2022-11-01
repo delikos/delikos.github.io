@@ -111,8 +111,7 @@ body{
     background: #45f3ff;
     border-radius: 4px;
     transition:0.5s;
-    pointer-events: none;
-    /* z-index: 10; */
+    pointer-events: none
 }
 .inputBox input:valid ~ i,
 .inputBox input:focus ~ i
