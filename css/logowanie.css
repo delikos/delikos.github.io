@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #23242a;
+    background: #141d28;
 }
 .box{
     position: relative;
@@ -56,7 +56,7 @@ body{
     position: absolute;
     inset: 2px;
     border-radius:8px;
-    background: #28292d;
+    background: #141d28;
     z-index: 10;
     padding: 50px 40px;
     display: flex;
@@ -80,7 +80,7 @@ body{
     background: transparent;
     border: none;
     outline: none;
-    color: #23242a;
+    color: #141d28;
     font-size: 1em;
     letter-spacing: 0.05em;
     z-index: 10;
